@@ -1,0 +1,29 @@
+One-Line Problem Statement Design and develop a smart, 
+data-driven water pressure monitoring and management system for 
+Solapur Municipal Corporation (SMC) to ensure equitable, reliable, 
+and efficient water supply across all distribution zones through 
+real-time monitoring, analytics, and automation. Context 
+Solapur Municipal Corporation provides drinking water to 
+more than 10 lakh citizens across multiple water distribution zones. 
+Despite continuous infrastructure development and operational efforts, 
+the city continues to face challenges related to uneven water pressure, 
+irregular supply, and significant water losses. Areas located at higher 
+elevations and tail-end zones frequently experience low water pressure and 
+inadequate supply, leading to citizen dissatisfaction and inequitable access. 
+Additionally, aging pipelines, leakages, unauthorized consumption, 
+and manual valve operations result in high non-revenue water 
+and operational inefficiencies. The absence of real-time monitoring, 
+automation, and data-driven decision support limits SMC's ability to respond 
+proactively and plan efficiently, necessitating the adoption of smart water management 
+solutions. Problem Description Solapur Municipal Corporation requires an integrated, 
+intelligent water management solution to address the following challenges: 
+1. Uneven Water Pressure and Distribution • Low pressure in elevated and tail-end areas. 
+• Unequal water distribution across zones and wards. 
+• Irregular and unpredictable water supply schedules. 
+2. Water Losses and Infrastructure Inefficiencies • Leakages and bursts in aging pipelines. 
+• Manual valve and pump operations leading to human error. 
+• Unauthorized consumption and undetected losses. 
+3. Lack of Real-Time Visibility and Decision Support 
+• No real-time data on pressure, flow, and consumption patterns. 
+• Delayed detection of faults and pressure drops. 
+• Limited analytical tools for demand forecasting and planning.
